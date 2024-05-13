@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "imooc-cli-dev utils",
   "author": "Kevin-Huang <2919936385@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Run testing from utils"
   },
-  "gitHead": "641fc953200fe9c6ae77b22cd2a6b434fd36b6c7"
+  "gitHead": "43aa2b5be120cd3bf919d9cbb12c2790290e5d00"
 }
