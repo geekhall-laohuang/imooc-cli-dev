@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-npm/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "imooc-cli-dev core",
   "author": "Kevin-Huang <2919936385@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Run testing from core"
   },
   "dependencies": {
-    "@imooc-cli-dev/utils": "^1.0.0"
+    "@imooc-cli-dev/utils": "^1.0.1"
   }
 }
