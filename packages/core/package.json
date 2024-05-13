@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-npm/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "imooc-cli-dev core",
   "author": "Kevin-Huang <2919936385@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core"
   },
   "dependencies": {
-    "@imooc-cli-dev/utils": "^1.0.1"
+    "@imooc-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "641fc953200fe9c6ae77b22cd2a6b434fd36b6c7"
 }
